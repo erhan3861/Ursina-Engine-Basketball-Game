@@ -1,4 +1,4 @@
-**Basketball game with the Ursina game. **
+**Basketball game with the Ursina game.**
 The game features a fun prototype with ball toss, animations, user input and other details.
 
 What did I use to develop this game:
